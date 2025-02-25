@@ -54,7 +54,7 @@ class DFA:
     def accepting(self) -> list[str]:
         return self._accepting
     
-    def is_accepted(self, string: str) -> bool:
+    def simulate(self, string: str) -> bool:
         """
         Check if a string is accepted by the DFA.
 
