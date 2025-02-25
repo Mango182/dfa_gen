@@ -32,7 +32,7 @@ For Windows, download the installer from the [Graphviz website](https://graphviz
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Mango182/dfa_gen
     cd dfa_gen
     ```
 
