@@ -73,7 +73,7 @@ print(f'The input string is {"accepted" if result else "rejected"} by the DFA.')
 ```
 
 ## Diagram
-![DFA Diagram](https://raw.github.com/Mango182/hidden-images-repo/main/dfa/DFA.png)
+![DFA Diagram](https://raw.githubusercontent.com/Mango182/hidden-images-repo/main/dfa/DFA.png)
 
 ## License
 
